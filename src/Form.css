@@ -1,0 +1,22 @@
+.form-container {
+  display: block;
+}
+
+.theme-image {
+  max-width: 150px;
+  margin-bottom:10px;
+  height: 100px; 
+}
+
+.toggle-button {
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+.toggle-button.light-theme {
+  background-color: yellow; 
+   color: #222;
+}
+.toggle-button.dark-theme {
+  background-color: #333; 
+  color: #fff; 
+}
